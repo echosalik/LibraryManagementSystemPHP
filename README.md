@@ -12,6 +12,6 @@ Add you Library name to the software by editing the file 'variables.php' file in
 
 ** YOU ARE FREE TO USE IT AND EDIT IT ACCORDING TO YOUR NEED BUT YOU HAVE TO KEEP THE COMPANY NAME AND GIVE CREDITS WHERE REQUIRED **
 
-www.dragotech-innovations.tk
+www.dragotech-innovations.com
 
 <dragotech.innovations@gmail.com>
